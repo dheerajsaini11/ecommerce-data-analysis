@@ -47,10 +47,20 @@ ecommerce-data-analysis/
 
 ## 📊 Key Insights (To Be Expanded)
 
-* High mileage vehicles tend to have lower selling prices
-* Certain brands dominate the market in volume
-* Pricing varies significantly across vehicle types
-* Seasonal trends observed in vehicle sales
+Vehicles with higher mileage show a clear drop in resale value
+Automatic cars tend to have higher selling prices
+Brand X dominates market volume but not pricing
+Peak sales observed in month X
+
+---
+
+## 📈 Visualizations
+
+### Price Distribution
+![Price Distribution](outputs/charts/price_distribution.png)
+
+### Top Brands
+![Top Brands](outputs/charts/top_brands.png)
 
 ---
 
