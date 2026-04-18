@@ -74,6 +74,21 @@ Peak sales observed in month X
 
 ---
 
+## ❓ Business Questions Answered
+
+- What factors affect car selling price?
+- Which brands dominate the market?
+- Does mileage impact resale value?
+- Are automatic cars priced higher than manual?
+
+---
+
+## 📌 Conclusion
+
+This analysis shows that vehicle pricing is strongly influenced by mileage, brand, and transmission type. High-mileage vehicles tend to depreciate significantly, while automatic vehicles and premium brands retain higher resale value.
+
+---
+
 ## 🚀 How to Run This Project
 
 ```bash
