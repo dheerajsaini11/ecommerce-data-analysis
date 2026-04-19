@@ -83,6 +83,15 @@ Peak sales observed in month X
 
 ---
 
+## 🔍 Advanced Analysis
+
+- Created new feature: car_age
+- Identified strong relationship between car age and price
+- Removed extreme outliers for better analysis
+- Used correlation heatmap to identify key influencing factors
+
+---
+
 ## 📌 Conclusion
 
 This analysis shows that vehicle pricing is strongly influenced by mileage, brand, and transmission type. High-mileage vehicles tend to depreciate significantly, while automatic vehicles and premium brands retain higher resale value.
